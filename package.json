@@ -2,9 +2,6 @@
 	"name": "medusa-plugin-tracking",
 	"version": ".1.0",
 	"description": "Package-tracking plugin for Medusa",
-	"files": [
-		"dist"
-	 ],
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/pevey/medusa-plugin-tracking"
